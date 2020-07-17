@@ -1,0 +1,13 @@
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\bin\Debug\netcoreapp3.1\BucleWhile.exe
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\bin\Debug\netcoreapp3.1\BucleWhile.deps.json
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\bin\Debug\netcoreapp3.1\BucleWhile.runtimeconfig.json
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\bin\Debug\netcoreapp3.1\BucleWhile.runtimeconfig.dev.json
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\bin\Debug\netcoreapp3.1\BucleWhile.dll
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\bin\Debug\netcoreapp3.1\BucleWhile.pdb
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.csprojAssemblyReference.cache
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.AssemblyInfoInputs.cache
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.AssemblyInfo.cs
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.dll
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.pdb
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\BucleWhile\BucleWhile\obj\Debug\netcoreapp3.1\BucleWhile.genruntimeconfig.cache
